@@ -1,1 +1,1 @@
-# github_copilot_poc
+# GitHub Copilot PoC
