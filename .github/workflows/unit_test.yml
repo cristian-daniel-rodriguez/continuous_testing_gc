@@ -20,3 +20,4 @@ jobs:
         run: |
           call ${{secrets.ANACONDA3_PATH}}/Scripts/activate.bat gc_poc
           python dm_unit_test.py 
+        shell: cmd
