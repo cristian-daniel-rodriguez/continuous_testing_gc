@@ -22,6 +22,5 @@ env/
 
 # Ignore data files
 data/
-*.csv
 *.json
 *.xlsx
