@@ -1,4 +1,4 @@
-name: gc_poc
+name: ct_gc
 channels:
   - conda-forge
 dependencies:
